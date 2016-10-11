@@ -7,8 +7,8 @@ Aqui yacen los paquetes de logos y wallpapers!
 
 ¿Cómo clono este repo?
 ----------------------
-1. `git git@github.com:piratas-ar/RocketGatitos-sexyness.git
-1. `cd RocketGatitos-sexyness
+1. `git git@github.com:piratas-ar/RocketGatitos-sexyness.git`
+1. `cd RocketGatitos-sexyness`
 
 
 Descripción de ficheros y directorios:
